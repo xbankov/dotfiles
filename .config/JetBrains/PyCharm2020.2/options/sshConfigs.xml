@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="cantor.dev.dszn.cz" id="7d6430c2-2881-45e3-b684-0edebc66afe8" port="22" nameFormat="DESCRIPTIVE" username="xbankov" />
+    </configs>
+  </component>
+</application>

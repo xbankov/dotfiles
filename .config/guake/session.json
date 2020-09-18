@@ -1,0 +1,20 @@
+{
+    "schema_version": 2,
+    "timestamp": 1600419003,
+    "workspace": {
+        "0": [
+            [
+                {
+                    "panes": [
+                        {
+                            "type": "term",
+                            "directory": "/home/xbankov"
+                        }
+                    ],
+                    "label": "1:bash",
+                    "custom_label_set": false
+                }
+            ]
+        ]
+    }
+}

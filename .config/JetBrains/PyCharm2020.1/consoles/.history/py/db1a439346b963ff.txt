@@ -1,0 +1,31 @@
+import xmlrpc.client
+-. . -..- - / . -. - .-. -.--
+print(os.environ['SOME_VAR'])
+-. . -..- - / . -. - .-. -.--
+print(os.environ['db_list'])
+-. . -..- - / . -. - .-. -.--
+exit
+-. . -..- - / . -. - .-. -.--
+import os
+-. . -..- - / . -. - .-. -.--
+os.environ['LOGDIR']
+-. . -..- - / . -. - .-. -.--
+os.environ['db_list']
+-. . -..- - / . -. - .-. -.--
+./download_production_signals.py --ts "$TIMESTAMP" $FLAGS "$MODEL_NAME"  "$db_list" 2>&1 | tee "$SIGNALS_LOG"
+-. . -..- - / . -. - .-. -.--
+runfile('/home/xbankov/mapy-search-relevance/script/download_production_signals.py', args=['--ts', '20200908145849', 'prod_test', 'db_03c,jirka_data_v2,click_data_02_100000_10,test3'], wdir='/home/xbankov')
+-. . -..- - / . -. - .-. -.--
+runfile('/home/xbankov/mapy-search-relevance/script/download_production_signals.py', args=['--ts', '20200908145849', '--njobs', '20', 'prod_test', 'db_03c,jirka_data_v2,click_data_02_100000_10,test3'], wdir='/home/xbankov')
+-. . -..- - / . -. - .-. -.--
+empty = []
+-. . -..- - / . -. - .-. -.--
+(list(None for s in empty))
+-. . -..- - / . -. - .-. -.--
+list((list(None for s in empty)))
+-. . -..- - / . -. - .-. -.--
+list(None)
+-. . -..- - / . -. - .-. -.--
+(list(None) for s in empty)
+-. . -..- - / . -. - .-. -.--
+list((list(None) for s in empty))

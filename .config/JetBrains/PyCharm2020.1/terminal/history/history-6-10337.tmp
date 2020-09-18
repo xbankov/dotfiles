@@ -1,0 +1,137 @@
+ping google.sk
+exit
+ifconfig
+ifconfig -a
+exit
+cat /home/xbankov/.ssh/
+ls /home/xbankov/.ssh/
+wget https://zoom.us/client/latest/zoom_amd64.deb
+sudo apt install ./zoom_amd64.deb
+ssh-keygen
+man ssh-keygen
+ssh-keygen -b 4096 -t rsa
+cat /home/xbankov/.ssh/id_rsa.pub 
+sudo dpkg -l guake
+guake
+exit
+sudo apt-get updat
+sudo apt-get update
+sudo apt-get install guake
+exit
+ifconfig
+sudo apt install net-tools
+ifconfig
+ping google.com
+exit
+guake
+exit
+cd Downloads/
+ls
+sudo dpkg -i szn-ca-certificates_5_all.deb 
+exit
+ssh-keygen -t rsa -b 4000
+cat ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+sudo apt-get install cheese
+ifconfig
+exit
+vim ~/.bashrc 
+sudo apt install vim
+vim ~/.bashrc 
+exit
+which python
+which python3
+python3 --version
+cd ..
+python3 -m venv mapy-search-relevance
+l
+ls
+cd mapy-search-relevance/
+ls
+cd mapy-search-relevance/
+ls
+cd ..
+rm -rf mapy-search-relevance/
+python3 -m venv ~/.venv/mapy-relevance
+rm -rf ~/.venv/mapy-relevance/
+python3 -m venv ~/.venv/mapy-relevance
+source ~/.venv/mapy-relevance/bin/activate
+exit
+openvpn config.ovpn
+curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
+sudo apt install curl
+curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
+chmod +x openvpn-install.sh
+sudo bash openvpn-install.sh
+sudo apt install openvpn
+sudo apt autoremove
+sudo systemctl start openvpn
+sudo systemctl enble openvpn 
+sudo systemctl enable openvpn 
+sudo systemctl status openvpn
+em.slice/openvpn.service
+zář 02 09:11:20 work systemd[1]: Starting OpenVPN service...
+zář 02 09:11:20 wor
+em.slice/openvpn.service
+zář 02 09:11:20 work systemd[1]: Starting OpenVPN service...
+sudo killall openvpn
+sudo apt-get install openvpn  
+sudo apt-get install network-manager-openvpn  
+sudo apt-get install network-manager-openvpn-gnome  
+ls
+mv vpn_LTg3iaU.conf echo 'search("pivovar madcat", 0, 500, {"debug": true, "maprel": true, "allowCorr": true, "lon": 15.7893, "lat": 50.2157, "zoom": 13, "lang": ["cs"], "autoCorr": true, "sortByTextRel": false, "entity_filter": [{"source": "base", "id": 1913773}, {"source": "
+base", "id": 1913260}, {"source": "base", "id": 2226629}, {"source": "firm", "id": 12873251}, {"source": "base", "id": 2134919}, {"source": "base", "id": 2040244}, {"source": "base", "id": 2196456}, {"source": "base", "id": 1913772}, {"source": "base", "id": 2136664}] 
+e
+'
+echo 'search("pivovar madcat", 0, 500, {"debug": true, "maprel": true, "allowCorr": true, "lon": 15.7893, "lat": 50.2157, "zoom": 13, "lang": ["cs"], "autoCorr": true, "sortByTextRel": false, "entity_filter": [{"source": "base", "id": 1913773}, {"source": "
+base", "id": 1913260}, {"source": "base", "id": 2226629}, {"source": "firm", "id": 12873251}, {"source": "base", "id": 2134919}, {"source": "base", "id": 2040244}, {"source": "base", "id": 2196456}, {"source": "base", "id": 1913772}, {"source": "base", "id": 2136664}] 
+})' | xmlrpc-netcat maprel-stretch.fulltext-vyzkum.ko1.os.scif.cz 2565
+cd ..
+git clone git@gitlab.seznam.net:research/mapy-search-relevance.git
+sudo apt install git
+sudo apt update
+git init --bare testrepo
+ip a
+ls
+cd Downloads/
+ls
+mv vpn_LTg3iaU.conf /etc/NetworkManager/system-connections/
+sudo mv vpn_LTg3iaU.conf /etc/NetworkManager/system-connections/
+openvpn config.ovpn
+sudo apt-get install openvpn
+sudo openvpn --config
+cd ..
+sudo openvpn --config
+git clone git@gitlab.seznam.net:research/mapy-search-relevance.git
+git status
+cd mapy-search-relevance/
+python3 -m venv mapy-search-relevance  
+sudo apt-get install python3-venv
+mapy-relevance-activate
+. ~/.bashrc
+~/.bashrc
+ls ~/.bashrc
+source ~/.bashrc
+cd ..
+ls
+source ~/.bashrc
+rm -rf testrepo/
+rm openvpn-install.sh 
+rm zoom_amd64.deb 
+ls
+mapy-relevance-activate 
+ls
+cd ~
+git clone source ~/.venv/mapy-relevance/bin/activate
+git clone git@gitlab.seznam.net:research/mapy-search-relevance.git
+cd mapy-search-relevance/
+s
+ls
+cd python/
+ls
+python -v
+python
+python --version
+pip
+pip install .
+sudo apt-get install build-essential autoconf libtool pkg-config python-opengl python-imaging python-pyrex python-pyside.qtopengl idle-python2.7 qt

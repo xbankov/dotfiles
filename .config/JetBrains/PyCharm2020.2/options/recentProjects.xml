@@ -1,0 +1,38 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/mapy-relevance">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1h2TYsd7PfV5ABlG7NhsZQvhFOQ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-202.6948.78" />
+              <option name="buildTimestamp" value="1598375590767" />
+              <frame x="2045" y="425" width="1838" height="789" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1599208242036" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/mapy-search-relevance">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1h0Ua0UmJlDig2V6yzk6lbeARTI">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-202.6948.78" />
+              <option name="buildTimestamp" value="1598375594762" />
+              <frame x="2390" y="201" width="1376" height="753" extendedState="6" fullScreen="true" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1599574639937" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/mapy-search-relevance" />
+        <option value="$USER_HOME$/mapy-relevance" />
+      </list>
+    </option>
+  </component>
+</application>

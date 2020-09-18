@@ -1,0 +1,82 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.8 (home)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.2" />
+      <homePath value="$USER_HOME$/.venv/mapy-relevance/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.8" type="simple" />
+            <root url="file:///usr/lib/python3.8/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.venv/mapy-relevance/lib/python3.8/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.venv/mapy-relevance/lib/python3.8/site-packages/maprel-0.1-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.2/python_stubs/756257448" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/mapy-search-relevance" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (cantor)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.5" />
+      <homePath value="$USER_HOME$/cantor/miniconda3/envs/mapy-relevance/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.8.5 (sftp://xbankov@cantor.dev.dszn.cz:22/home/xbankov/miniconda3/envs/mapy-relevance/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.5" />
+      <homePath value="sftp://xbankov@cantor.dev.dszn.cz:22/home/xbankov/miniconda3/envs/mapy-relevance/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.2/remote_sources/1948333576/-544148181" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.2/remote_sources/1948333576/1374636751" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.2/remote_sources/1948333576/-1179257471" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.2/python_stubs/1948333576" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="$USER_HOME$/miniconda3/envs/mapy-relevance/bin/python" HELPERS_PATH="$USER_HOME$/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" WEB_SERVER_CONFIG_ID="66fc94d8-569b-4ff7-b0b6-f79091728a94" WEB_SERVER_CONFIG_NAME="xbankov@cantor.dev.dszn.cz:22" WEB_SERVER_CREDENTIALS_ID="sftp://xbankov@cantor.dev.dszn.cz:22">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.2/remote_sources/1948333576/-544148181" remote-root="/home/xbankov/miniconda3/envs/mapy-relevance/lib/python3.8" />
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.2/remote_sources/1948333576/1374636751" remote-root="/home/xbankov/miniconda3/envs/mapy-relevance/lib/python3.8/site-packages" />
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.2/remote_sources/1948333576/-1179257471" remote-root="/home/xbankov/miniconda3/envs/mapy-relevance/lib/python3.8/site-packages/maprel-0.1-py3.8.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
