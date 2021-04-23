@@ -1,4 +1,0 @@
-com.intellij.CloudConfig
-com.jetbrains.sh
-org.jetbrains.plugins.textmate
-pro.bashsupport

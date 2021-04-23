@@ -1,3 +1,0 @@
-com.intellij.CloudConfig
-com.jetbrains.sh
-pro.bashsupport

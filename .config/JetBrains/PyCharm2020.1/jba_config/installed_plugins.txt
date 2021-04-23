@@ -1,9 +1,0 @@
-ru.meanmail.plugin.requirements
-name.kropp.intellij.makefile
-net.seesharpsoft.intellij.plugins.csv
-com.andrey4623.rainbowcsv
-com.alayouni.ansiHighlight
-BashSupport
-mobi.hsz.idea.gitignore
-some.awesome
-com.intellij.ideolog

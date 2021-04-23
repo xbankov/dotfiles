@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="66fc94d8-569b-4ff7-b0b6-f79091728a94" name="xbankov@cantor.dev.dszn.cz:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="cantor.dev.dszn.cz" port="22" sshConfigId="7d6430c2-2881-45e3-b684-0edebc66afe8" sshConfig="xbankov@cantor.dev.dszn.cz:22 agent" authAgent="true" />
-      </webServer>
-    </option>
-  </component>
-</application>
